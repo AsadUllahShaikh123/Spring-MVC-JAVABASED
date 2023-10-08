@@ -26,6 +26,7 @@
 			</p>
 			<input type="submit" value="calculate" />
 		</div>
+		
 	</form:form>
 </body>
 </html>
