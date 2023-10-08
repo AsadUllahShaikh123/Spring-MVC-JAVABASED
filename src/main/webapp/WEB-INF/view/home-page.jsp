@@ -7,11 +7,11 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 
-<link rel="stylesheet" type="text/css" href="/spring_mvc_javabased/resource/css/style.css">
+<link rel="stylesheet" type="text/css" href="resource/css/style.css">
 </head>
 <body>
 	<h1 style="text-align: center">Love Calculator</h1>
-	<img alt="demo-img" src="/spring_mvc_javabased/resource/images/screen.png" />
+	<img alt="demo-img" src="resource/images/screen.png" />
 	<hr/>
 	<form:form action="process-homepage" modelAttribute="userInfo">
 		<div align="center">
