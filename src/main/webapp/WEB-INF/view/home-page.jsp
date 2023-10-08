@@ -6,6 +6,8 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+
+<link rel="stylesheet" type="text/css" href="/spring_mvc_javabased/resource/css/style.css">
 </head>
 <body>
 	<h1 style="text-align: center">Love Calculator</h1>
