@@ -11,6 +11,7 @@
 </head>
 <body>
 	<h1 style="text-align: center">Love Calculator</h1>
+	<img alt="demo-img" src="/spring_mvc_javabased/resource/images/screen.png" />
 	<hr/>
 	<form:form action="process-homepage" modelAttribute="userInfo">
 		<div align="center">
